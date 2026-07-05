@@ -53,13 +53,12 @@ A structured summer project under **Stamatics (ACA), IIT Kanpur** focused on bui
 │   ├── 01_majority_element.cpp
 │   ├── 02_maximum_subarray.cpp
 │   ├── 03_nth_root.cpp
-│   ├── 04_bewitching_stargazer.cpp
-│   ├── 05_rotate_image.cpp
-│   ├── 06_spiral_matrix.cpp
-│   ├── 07_remove_duplicates.cpp
-│   ├── 08_sort_colors.cpp
-│   ├── 09_next_permutation.cpp
-│   └── 10_three_sum.cpp
+│   ├── 04_rotate_image.cpp
+│   ├── 05_spiral_matrix.cpp
+│   ├── 06_remove_duplicates.cpp
+│   ├── 07_sort_colors.cpp
+│   ├── 08_next_permutation.cpp
+│   └── 09_three_sum.cpp
 ├── Week2_Prefix_Sums_Binary_Search/
 │   ├── 01_prefix_sum.cpp
 │   ├── 02_lis_binary_search.cpp
@@ -67,7 +66,6 @@ A structured summer project under **Stamatics (ACA), IIT Kanpur** focused on bui
 ├── Week3_Recursion/
 │   ├── 01_josephus_problem.cpp
 │   ├── 02_decode_string.cpp
-│   └── 03_kth_symbol_grammar.cpp
 ├── Week4_Backtracking/
 │   └── 01_backtracking_problems.cpp
 ├── Week5_Dynamic_Programming/
