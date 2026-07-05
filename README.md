@@ -100,6 +100,3 @@ g++ -std=c++17 -O2 -o solution Week1_Arrays_Sorting/01_majority_element.cpp
 - [CP-31 Sheet](https://www.tle-eliminators.com/cp-sheet)
 - [GeeksforGeeks — C++ STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
-## Acknowledgements
-
-Mentors: **Yashaswi Raj** (CSE Y23), **Sachin Kumar Upadhyay** (CE Y23), and the Stamatics ACA team at IIT Kanpur.
